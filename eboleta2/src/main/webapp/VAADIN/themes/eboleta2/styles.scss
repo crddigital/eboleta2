@@ -1,0 +1,11 @@
+@import "eboleta2.scss";
+@import "addons.scss";
+
+// This file prefixes all rules with the theme name to avoid causing conflicts with other themes.
+// The actual styles should be defined in eboleta2.scss
+
+.eboleta2 {
+  @include addons;
+  @include eboleta2;
+
+}
