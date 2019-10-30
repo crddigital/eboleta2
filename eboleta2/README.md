@@ -1,7 +1,7 @@
 eboleta2
 ==============
 
-Template for a simple Vaadin application that only requires a Servlet 3.0 container to run.
+Sistema para el registro de impuestos de MCR implementado en Vaadin 7.
 
 
 Workflow
